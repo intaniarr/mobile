@@ -16,12 +16,12 @@
         "source": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bung_tomo.png.flat",
         "source": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\src\\main\\res\\drawable\\bung_tomo.png"
+    },
+    {
+        "merged": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
         "merged": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -44,12 +44,12 @@
         "source": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ahmad_dahlan.png.flat",
         "source": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\src\\main\\res\\drawable\\ahmad_dahlan.png"
+    },
+    {
+        "merged": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\KULIAH\\SEMESTER 5\\MOBILE\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
