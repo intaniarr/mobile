@@ -1,0 +1,9 @@
+com/id/myreadwritefile/BuildConfig.java
+ com.id.myreadwritefile.BuildConfig
+com/id/myreadwritefile/FileModel.java
+ com.id.myreadwritefile.FileModel
+com/id/myreadwritefile/FileHelper.java
+ com.id.myreadwritefile.FileHelper
+com/id/myreadwritefile/MainActivity.java
+ com.id.myreadwritefile.MainActivity
+ com.id.myreadwritefile.MainActivity$1
